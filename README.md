@@ -1,4 +1,4 @@
-<br />
+<br /><br />
 <p align="center">
   <img src="https://docs.staroid.com/_images/staroid_logo.svg" width="250px" />
 </p>
