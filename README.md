@@ -1,4 +1,4 @@
-# Staroid Community
+![](https://docs.staroid.com/_images/staroid_logo.svg)
 
 [Staroid](https://staroid.com) is a cloud platform for open-source project that funds developers.
 
