@@ -1,8 +1,16 @@
 # Release note
 
+## 2020-07-09
+
+### Enhancements
+
+CI build system upgraded [Skaffold](https://skaffold.dev/) version from v1.7.0 to v1.12.0. 😀
+
 ## 2020-07-07
 
 ### New Features
+
+  ![](https://user-images.githubusercontent.com/1540981/87073386-2a962f80-c1d2-11ea-8977-61f323f7c7c7.png)
 
   - Spot instance
 
