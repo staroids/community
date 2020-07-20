@@ -1,5 +1,23 @@
 # Release note
 
+## 2020-07-20
+
+### New Features
+
+ - `starctl` Command line interface
+
+   `starctl` CLI is released and available as an open-source. `starctl` helps you programmatically access staroid features, including access Kubernetes API from your machine.
+
+   Check https://github.com/staroids/starctl
+
+ - API access token
+
+   You can now generate/revoke API token from [Access Tokens](https://staroid.com/settings/accesstokens) menu. Access token can be used for
+
+    - staroid REST API
+    - starctl CLI
+    - get access to your application end point deployed in SKE
+
 ## 2020-07-09
 
 ### Enhancements
