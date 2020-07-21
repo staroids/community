@@ -1,8 +1,18 @@
 # Release note
 
+## 2020-07-21
+
+### 💫 New Features
+
+ - [AWS Support](https://github.com/staroids/community/issues/2) 
+
+    Now you can choose AWS region when creating SKE!
+
+    ![](https://user-images.githubusercontent.com/63678710/88068484-1ed93000-cb25-11ea-8810-16e793a53e85.png)
+
 ## 2020-07-20
 
-### New Features
+### 💫 New Features
 
  - `starctl` Command line interface
 
@@ -20,13 +30,13 @@
 
 ## 2020-07-09
 
-### Enhancements
+### 🛸 Enhancements
 
 CI build system upgraded [Skaffold](https://skaffold.dev/) version from v1.7.0 to v1.12.0. 😀
 
 ## 2020-07-07
 
-### New Features
+### 💫 New Features
 
   ![](https://user-images.githubusercontent.com/1540981/87073386-2a962f80-c1d2-11ea-8977-61f323f7c7c7.png)
 
@@ -45,7 +55,7 @@ CI build system upgraded [Skaffold](https://skaffold.dev/) version from v1.7.0 t
 
 ## 2020-06-30
 
-### Enhancements
+### 🛸 Enhancements
   - Increased Test Drive namespace resource quota
     
     Namespace resource quota for TestDrive for free tier is increased from
@@ -62,7 +72,7 @@ CI build system upgraded [Skaffold](https://skaffold.dev/) version from v1.7.0 t
 
 ## 2020-06-29
 
-### Enhancements
+### 🛸 Enhancements
 
   - Terminal is now moved into the Instance view from Virtual cloud view with the name 'shell'. Now user can manage it (start/stop).
 
@@ -70,7 +80,7 @@ CI build system upgraded [Skaffold](https://skaffold.dev/) version from v1.7.0 t
 
   - Connecting Log console (and Shell) takes now a much short time. From 5-15 seconds to around 1 second! 🚀
 
-### Bug Fixes
+### 🐛 Bug Fixes
 
   - Projects listed in the Universe show the wrong community rate.
   - Fixed Log console and Terminal shows connection closed very frequently. 😀
@@ -79,7 +89,7 @@ CI build system upgraded [Skaffold](https://skaffold.dev/) version from v1.7.0 t
 
 ## 2020-06-20
 
-### New Features
+### 💫 New Features
 
   - Now you can browse ['nfs' type Persistent Volume Claim](https://docs.staroid.com/virtual_cloud/storage.html#storageclassname) from the web interface.
 
@@ -89,7 +99,7 @@ CI build system upgraded [Skaffold](https://skaffold.dev/) version from v1.7.0 t
 
 ## 2020-06-18
 
-### New Features
+### 💫 New Features
 
   - Update existing instance!
 
@@ -100,7 +110,7 @@ CI build system upgraded [Skaffold](https://skaffold.dev/) version from v1.7.0 t
 
 ## 2020-05-11
 
-### New Features
+### 💫 New Features
 
   - Now you can stop and restart the instance. [issue#5](https://github.com/staroids/community/issues/5).
 
