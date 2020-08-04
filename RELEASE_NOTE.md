@@ -1,5 +1,31 @@
 # Release note
 
+## 2020-08-01
+
+### 💫 New Features
+ - [GPU Support](https://github.com/staroids/community/issues/10) 
+   `gpu-1` instance is available on AWS region!
+   The instance is powered by NVidia Tesla V100 16GB Mem, with 8Core CPU and 61GB system memory!
+
+   Use this by adding label to your Pod like
+   
+   ```
+   kind: Pod
+   apiVersion: v1
+   metadata:
+     name: ..
+     labels:
+       pod.staroid.com/isolation: dedicated
+       pod.staroid.com/instance-type: gpu-1
+       pod.staroid.com/spot: false  # 'true' for spot instance
+   ```
+
+   See https://docs.staroid.com/ske/pod.html#pod for more detail.
+
+   [open-datastudio/jupyter](https://github.com/open-datastudio/jupyter) provide a gpu instance option already!
+
+   ![](https://user-images.githubusercontent.com/1540981/89242052-73fd5300-d5b5-11ea-8439-a3b3ab3d5f7f.png)
+
 ## 2020-07-21
 
 ### 💫 New Features
