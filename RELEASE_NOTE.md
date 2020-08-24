@@ -1,5 +1,16 @@
 # Release note
 
+## 2020-08-23
+
+### 💫 Project pages
+
+ - [Project pages](https://docs.staroid.com/project/pages.html) allow you can cusutomize your project page beyond README.md.
+
+   It allow organize your contents better for users and create extra pages as you want.
+
+   All you need is create a markdown files under `.staroid/pages` directory. See https://docs.staroid.com/project/pages.html for more details!
+
+
 ## 2020-08-17
 
 ### 💫 New Features
