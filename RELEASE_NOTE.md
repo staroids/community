@@ -1,5 +1,16 @@
 # Release note
 
+## 2020-08-17
+
+### 💫 New Features
+ - [Secure tunnel](https://github.com/staroids/community/issues/12) service is now available. Easy and secure way to make a connection between your private network and instances running on Staroid cloud.
+   
+     It supports both forward and reverse tunnel. That means you're not only able to make a secure connection from your private network to instances running on Staroid cloud, but also instances running on Staroid cloud can connect to your network securely.
+
+     More importantly, both forward and reverse tunnel does not require your private network to allow ingress connection. Only a https egress connection from your private network is required.
+
+     See video here https://youtu.be/KGpJNy3PYhk
+
 ## 2020-08-01
 
 ### 💫 New Features
