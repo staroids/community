@@ -1,5 +1,16 @@
 # Release note
 
+## 2020-11-30
+
+### 💫 New Features
+
+ - Instance management on each project and new ui
+
+   ![](https://user-images.githubusercontent.com/1540981/100672059-3a93e480-3316-11eb-99bf-32d5b0f45bed.png)
+
+   Now, each project has 'instance' tab to manage instances of the project. And the project page has a new look!
+
+
 ## 2020-08-23
 
 ### 💫 Project pages
